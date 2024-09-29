@@ -15,7 +15,7 @@ img {
 }
 
 .img {
-    max-width: 100%;
-    height: auto;
+    max-width: 250px;
+    height: 250px;
     flex: 1 1 30%; /* Adjust the percentage as needed */
 }
