@@ -36,7 +36,7 @@ formatAnswer(image1);
           }
         } else {
           if (confirm("Tem certeza?")) {
-              document.getElementById("yssis").src = "assets/A.png";
+              document.getElementById("yssis").src = "assets/B.png";
               const link2 = document.createElement('a1');
               link2.href = document.getElementById("yssis").src;
               link2.download = 'B.png';
